@@ -1,0 +1,6 @@
+C:\Szkolenie - Kredyt Inkaso\examples\ClassLibrary1\AnatomiaTestu\bin\Debug\AnatomiaTestu.exe.config
+C:\Szkolenie - Kredyt Inkaso\examples\ClassLibrary1\AnatomiaTestu\bin\Debug\AnatomiaTestu.exe
+C:\Szkolenie - Kredyt Inkaso\examples\ClassLibrary1\AnatomiaTestu\bin\Debug\AnatomiaTestu.pdb
+C:\Szkolenie - Kredyt Inkaso\examples\ClassLibrary1\AnatomiaTestu\obj\Debug\AnatomiaTestu.csprojResolveAssemblyReference.cache
+C:\Szkolenie - Kredyt Inkaso\examples\ClassLibrary1\AnatomiaTestu\obj\Debug\AnatomiaTestu.exe
+C:\Szkolenie - Kredyt Inkaso\examples\ClassLibrary1\AnatomiaTestu\obj\Debug\AnatomiaTestu.pdb

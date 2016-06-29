@@ -1,0 +1,5 @@
+C:\Szkolenie - Kredyt Inkaso\examples\ClassLibrary1\VarProblem\bin\Debug\VarProblem.dll
+C:\Szkolenie - Kredyt Inkaso\examples\ClassLibrary1\VarProblem\bin\Debug\VarProblem.pdb
+C:\Szkolenie - Kredyt Inkaso\examples\ClassLibrary1\VarProblem\obj\Debug\VarProblem.csprojResolveAssemblyReference.cache
+C:\Szkolenie - Kredyt Inkaso\examples\ClassLibrary1\VarProblem\obj\Debug\VarProblem.dll
+C:\Szkolenie - Kredyt Inkaso\examples\ClassLibrary1\VarProblem\obj\Debug\VarProblem.pdb

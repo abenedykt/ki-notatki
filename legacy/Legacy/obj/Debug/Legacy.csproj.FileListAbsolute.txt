@@ -1,0 +1,5 @@
+C:\Szkolenie - Kredyt Inkaso\legacy\legacy\Legacy\bin\Debug\Legacy.dll
+C:\Szkolenie - Kredyt Inkaso\legacy\legacy\Legacy\bin\Debug\Legacy.pdb
+C:\Szkolenie - Kredyt Inkaso\legacy\legacy\Legacy\obj\Debug\Legacy.csprojResolveAssemblyReference.cache
+C:\Szkolenie - Kredyt Inkaso\legacy\legacy\Legacy\obj\Debug\Legacy.dll
+C:\Szkolenie - Kredyt Inkaso\legacy\legacy\Legacy\obj\Debug\Legacy.pdb

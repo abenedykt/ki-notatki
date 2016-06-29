@@ -1,0 +1,9 @@
+git status 	zwraca status repozytorium
+
+git add --all 	dodaje wszystkie zmiany do stage
+git commit 	commituje wszystkie zmiany (i aby przjeœæ do trybu edycji, [esc]:wq aby wyjœæ)
+git commit -m 'message' commituje z message zamiast vim-a
+
+git reset --hard HEAD resetuje repozytorium do ostatniej zakomitowanej zmiany
+git branch 	wypisuje listê ga³êzi
+git checkout nazwa_galezi checkoutuje wybran¹ ga³¹Ÿ

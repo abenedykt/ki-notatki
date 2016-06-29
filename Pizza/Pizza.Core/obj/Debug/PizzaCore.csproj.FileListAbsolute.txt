@@ -1,0 +1,5 @@
+C:\Szkolenie - Kredyt Inkaso\Pizza\PizzaTests\Pizza.Core\bin\Debug\PizzaCore.dll
+C:\Szkolenie - Kredyt Inkaso\Pizza\PizzaTests\Pizza.Core\bin\Debug\PizzaCore.pdb
+C:\Szkolenie - Kredyt Inkaso\Pizza\PizzaTests\Pizza.Core\obj\Debug\PizzaCore.csprojResolveAssemblyReference.cache
+C:\Szkolenie - Kredyt Inkaso\Pizza\PizzaTests\Pizza.Core\obj\Debug\PizzaCore.dll
+C:\Szkolenie - Kredyt Inkaso\Pizza\PizzaTests\Pizza.Core\obj\Debug\PizzaCore.pdb
